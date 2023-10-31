@@ -1,0 +1,53 @@
+.card-container{
+  
+   
+    border: 1px solid rgb(189, 187, 187);
+    border-radius: 6px;
+    margin: 15px 15px 0 !important;
+text-align: center;
+flex-basis: calc(30% - 20px) !important;
+
+   
+    
+} 
+.mar{
+    margin-right: 20px;
+}
+
+.img-card{
+
+    width: 100%;
+    height: auto;
+}
+
+.title-card{
+    color: #212529;
+    font: 20px Poppins , sans-serrif;
+    
+
+}
+
+
+
+.p-card{
+    font-size: 16px Poppins , sans-serrif;
+    color: #212529;
+padding: 0 50px; 
+}
+
+
+.card-body{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   margin: 20px 20px;
+   align-items: center;
+}
+
+
+.link{
+    color: black;
+}
+
+
+
